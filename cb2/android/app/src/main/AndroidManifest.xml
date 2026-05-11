@@ -8,7 +8,6 @@
     <application
         android:label="Community Bot"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
             android:exported="true"
